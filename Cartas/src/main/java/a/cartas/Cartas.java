@@ -11,6 +11,6 @@ package a.cartas;
 public class Cartas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("vamos los pibes");
     }
 }
